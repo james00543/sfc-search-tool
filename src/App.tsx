@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Settings, Search, Loader2, X, Clock, History, LayoutGrid, Server } from 'lucide-react';
+import { Settings, Search, Loader2, X, Clock, History, LayoutGrid } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SettingsProvider, useSettings } from './context/SettingsContext';
 import { useSFCSearch } from './hooks/useSFCSearch';
