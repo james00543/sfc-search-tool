@@ -122,3 +122,6 @@ Thumbs.db
 # Backup files
 *copy.json
 *.bak
+
+# Data files
+samplesfcoutput_*.json
