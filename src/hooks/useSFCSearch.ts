@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useSettings } from '../context/SettingsContext';
 import type { GetConfigurationResponse, CheckRouteResponse } from '../types';
+import { getApiBaseUrl } from '../config';
 
 interface SearchResult {
     config: GetConfigurationResponse | null;
@@ -12,6 +13,7 @@ export const useSFCSearch = () => {
     const { settings } = useSettings();
     const [isLoading, setIsLoading] = useState(false);
     const [results, setResults] = useState<SearchResult | null>(null);
+    const API_BASE = getApiBaseUrl();
 
     const search = async (sn: string) => {
         setIsLoading(true);
@@ -19,7 +21,7 @@ export const useSFCSearch = () => {
 
         try {
             // Parallel requests
-            const configPromise = fetch('/SFCAPI/SFC/GetConfigurations', {
+            const configPromise = fetch(`${API_BASE}/SFCAPI/SFC/GetConfigurations`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -31,7 +33,7 @@ export const useSFCSearch = () => {
                 }),
             });
 
-            const routePromise = fetch('/SFCAPI/SFC/CheckRoute', {
+            const routePromise = fetch(`${API_BASE}/SFCAPI/SFC/CheckRoute`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
