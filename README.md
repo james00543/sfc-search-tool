@@ -17,8 +17,8 @@ A modern, "Google-style" search interface for Shopfloor Control (SFC) configurat
 This project uses React, Vite, TailwindCSS, and Framer Motion.
 
 ### Setup
-1. Clone the repo.
-2. Create a `.env` file based on your environment (see `.env` example below).
+1. **Prerequisite**: Ensure you are connected to the corporate VPN or network to access the SFC API (`10.16.137.111`).
+2. Clone the repo.
 3. Install dependencies:
    ```bash
    npm install
@@ -27,17 +27,15 @@ This project uses React, Vite, TailwindCSS, and Framer Motion.
    ```bash
    npm run dev
    ```
+   Open the link shown in the terminal (usually `http://localhost:5173`).
 
 ### Environment Variables
-Create a `.env` file in the root:
+Optionally create a `.env` file to override defaults:
 ```env
-VITE_API_TARGET=http://your-sfc-api-ip
-VITE_DEFAULT_STATION_ID=your-station-id
-VITE_DEFAULT_PROJECT=your-project
-VITE_DEFAULT_EMP_NO=your-employee-no
-VITE_DEFAULT_MODEL_NAME=your-model-name
+VITE_API_TARGET=http://10.16.137.111
+# Add other overrides if needed
 ```
-> Note: The application proxies requests to `/SFCAPI` to avoid CORS issues locally.
+> **Note**: The application proxies requests from `/SFCAPI` to the configured `VITE_API_TARGET`. This proxy works locally via `vite` and can be configured for deployment, but the backend server must be reachable from the host.
 
 ## License
 [Your License Here]
