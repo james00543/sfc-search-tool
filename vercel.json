@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/SFCAPI/:path*",
+            "destination": "http://10.16.137.111/SFCAPI/:path*"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ]
+}
