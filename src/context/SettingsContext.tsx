@@ -2,10 +2,10 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { SFCConfig } from '../types';
 
 const DEFAULT_CONFIG: SFCConfig = {
-    STATION_ID: import.meta.env.VITE_DEFAULT_STATION_ID || '',
-    PROJECT: import.meta.env.VITE_DEFAULT_PROJECT || '',
-    EMP_NO: import.meta.env.VITE_DEFAULT_EMP_NO || '',
-    MODEL_NAME: import.meta.env.VITE_DEFAULT_MODEL_NAME || '',
+    STATION_ID: import.meta.env.VITE_DEFAULT_STATION_ID || 'PRET_05',
+    PROJECT: import.meta.env.VITE_DEFAULT_PROJECT || 'NV_VR200',
+    EMP_NO: import.meta.env.VITE_DEFAULT_EMP_NO || 'T80969',
+    MODEL_NAME: import.meta.env.VITE_DEFAULT_MODEL_NAME || 'NV_VR200',
 };
 
 interface SettingsContextType {

@@ -1,8 +1,5 @@
 export const getApiBaseUrl = () => {
-    // In production (Vercel), try to hit the private IP directly
-    if (import.meta.env.PROD) {
-        return 'http://10.16.137.111';
-    }
-    // In development, use the relative path to trigger the Vite proxy
+    // Always use relative path so requests go through the own server (proxy)
+    // This avoids CORS issues where the API doesn't allow our origin.
     return '';
 };

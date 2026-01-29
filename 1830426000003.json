@@ -1,0 +1,609 @@
+{
+    "DATA": {
+        "PBR_NO": "PB-68275",
+        "Management_Switch": [
+            {
+                "POSITION": "46",
+                "SN": "MT2519200619",
+                "PN": "MSN2201-CSMRC",
+                "REV": "N/A",
+                "MAC": [
+                    "2C5EAB127A00",
+                    "2C5EAB127A01"
+                ]
+            },
+            {
+                "POSITION": "47",
+                "SN": "MT2519200590",
+                "PN": "MSN2201-CSMRC",
+                "REV": "N/A",
+                "MAC": [
+                    "2C5EAB1278C8",
+                    "2C5EAB1278C9"
+                ]
+            }
+        ],
+        "Power_Shelf": [
+            {
+                "POSITION": "4",
+                "SN": "DGPT325470129",
+                "PN": "ECD68000089-B",
+                "REV": "N/A",
+                "PSC": [
+                    {
+                        "POSITION": "",
+                        "SN": "T425500192",
+                        "PN": "ECD70000037-B",
+                        "REV": "N/A",
+                        "MAC": [
+                            "00182380267F"
+                        ]
+                    }
+                ],
+                "PSU": [
+                    {
+                        "POSITION": "1",
+                        "SN": "DGPT2254701WE",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "2",
+                        "SN": "DGPT22547024W",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "3",
+                        "SN": "DGPT2254701WG",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "4",
+                        "SN": "DGPT2254701WY",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "5",
+                        "SN": "DGPT22547024M",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "6",
+                        "SN": "DGPT2254701XK",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    }
+                ]
+            },
+            {
+                "POSITION": "7",
+                "SN": "DGPT325470123",
+                "PN": "ECD68000089-B",
+                "REV": "N/A",
+                "PSC": [
+                    {
+                        "POSITION": "",
+                        "SN": "T425500082",
+                        "PN": "ECD70000037-B",
+                        "REV": "N/A",
+                        "MAC": [
+                            "0018238026E6"
+                        ]
+                    }
+                ],
+                "PSU": [
+                    {
+                        "POSITION": "1",
+                        "SN": "DGPT2254701JJ",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "2",
+                        "SN": "DGPT2254701KG",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "3",
+                        "SN": "DGPT2254701J8",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "4",
+                        "SN": "DGPT2254701JD",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "5",
+                        "SN": "DGPT2254701J3",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "6",
+                        "SN": "DGPT2254701J7",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    }
+                ]
+            },
+            {
+                "POSITION": "39",
+                "SN": "DGPT325470120",
+                "PN": "ECD68000089-B",
+                "REV": "N/A",
+                "PSC": [
+                    {
+                        "POSITION": "",
+                        "SN": "T425500067",
+                        "PN": "ECD70000037-B",
+                        "REV": "N/A",
+                        "MAC": [
+                            "0018238025D2"
+                        ]
+                    }
+                ],
+                "PSU": [
+                    {
+                        "POSITION": "1",
+                        "SN": "DGPT2254701J4",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "2",
+                        "SN": "DGPT2254701J5",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "3",
+                        "SN": "DGPT2254701JF",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "4",
+                        "SN": "DGPT2254701JZ",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "5",
+                        "SN": "DGPT2254701JP",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "6",
+                        "SN": "DGPT2254701JG",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    }
+                ]
+            },
+            {
+                "POSITION": "42",
+                "SN": "DGPT325470125",
+                "PN": "ECD68000089-B",
+                "REV": "N/A",
+                "PSC": [
+                    {
+                        "POSITION": "",
+                        "SN": "T425500243",
+                        "PN": "ECD70000037-B",
+                        "REV": "N/A",
+                        "MAC": [
+                            "00182380266A"
+                        ]
+                    }
+                ],
+                "PSU": [
+                    {
+                        "POSITION": "1",
+                        "SN": "DGPT2254701JC",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "2",
+                        "SN": "DGPT2254701JB",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "3",
+                        "SN": "DGPT2254701F4",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "4",
+                        "SN": "DGPT2254701HR",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "5",
+                        "SN": "DGPT2254701FB",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    },
+                    {
+                        "POSITION": "6",
+                        "SN": "DGPT2254701HQ",
+                        "PN": "ECD18010040-B",
+                        "REV": "N/A"
+                    }
+                ]
+            }
+        ],
+        "Rack_Manifold_Left": [
+            {
+                "POSITION": "",
+                "SN": "PHX23300S011/CN-FXN26031L0009",
+                "PN": "PHX23300S011",
+                "REV": "N/A"
+            }
+        ],
+        "Rack_Manifold_Right": [
+            {
+                "POSITION": "",
+                "SN": "PHX23400S011/CN-FXN26031R0006",
+                "PN": "PHX23400S011",
+                "REV": "N/A"
+            }
+        ],
+        "Cable_Cartridge": [
+            {
+                "POSITION": "1",
+                "SN": "1824925354443",
+                "PN": "HS33172-001",
+                "REV": "N/A"
+            },
+            {
+                "POSITION": "2",
+                "SN": "1824925354838",
+                "PN": "HS33172-001",
+                "REV": "N/A"
+            },
+            {
+                "POSITION": "3",
+                "SN": "1824925354810",
+                "PN": "HS33172-001",
+                "REV": "N/A"
+            },
+            {
+                "POSITION": "4",
+                "SN": "1824925354933",
+                "PN": "HS33172-001",
+                "REV": "N/A"
+            }
+        ],
+        "Switch_Tray": [
+            {
+                "POSITION": "9",
+                "SN": "MT2552606LAH",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "0820E7B557CA",
+                    "BMC": "0820E7BC4D04"
+                }
+            },
+            {
+                "POSITION": "10",
+                "SN": "MT255260225K",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC65986",
+                    "BMC": "0820E76664C2"
+                }
+            },
+            {
+                "POSITION": "11",
+                "SN": "MT25526026TH",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC75A1C",
+                    "BMC": "0820E76A2E2E"
+                }
+            },
+            {
+                "POSITION": "12",
+                "SN": "MT25526030A3",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC757BC",
+                    "BMC": "0820E77BB41C"
+                }
+            },
+            {
+                "POSITION": "13",
+                "SN": "MT25526030AK",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC756AC",
+                    "BMC": "0820E77BB81C"
+                }
+            },
+            {
+                "POSITION": "14",
+                "SN": "MT25526030AA",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC75684",
+                    "BMC": "0820E77BB5DC"
+                }
+            },
+            {
+                "POSITION": "15",
+                "SN": "MT25526030AE",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC7555C",
+                    "BMC": "0820E77BB6DC"
+                }
+            },
+            {
+                "POSITION": "16",
+                "SN": "MT25526030AD",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC755CC",
+                    "BMC": "0820E77BB69C"
+                }
+            },
+            {
+                "POSITION": "17",
+                "SN": "MT25526030A2",
+                "PN": "920-9K42W-00L6-TS2",
+                "REV": "N/A",
+                "MAC": {
+                    "COMe": "F0FB7FC757CC",
+                    "BMC": "0820E77BB3DC"
+                }
+            }
+        ],
+        "Compute_Tray": [
+            {
+                "POSITION": "1",
+                "SN": "1830326000012",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB9E9",
+                    "BMC_MAC": "AC3AE20AB2DB",
+                    "BF4_HOST_MAC": "2C9D9020FE8A",
+                    "BF4_BMC_MAC": "2C9D9020FEAB"
+                }
+            },
+            {
+                "POSITION": "2",
+                "SN": "1830326000074",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB9DE",
+                    "BMC_MAC": "AC3AE20AB2CA",
+                    "BF4_HOST_MAC": "2C9D9020F734",
+                    "BF4_BMC_MAC": "2C9D9020F755"
+                }
+            },
+            {
+                "POSITION": "3",
+                "SN": "1830326000080",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB91B",
+                    "BMC_MAC": "AC3AE20AAEE7",
+                    "BF4_HOST_MAC": "2C9D9020E3C8",
+                    "BF4_BMC_MAC": "2C9D9020E3E9"
+                }
+            },
+            {
+                "POSITION": "4",
+                "SN": "1830426000017",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8FF",
+                    "BMC_MAC": "AC3AE20AAEB9",
+                    "BF4_HOST_MAC": "2C9D9020E7C4",
+                    "BF4_BMC_MAC": "2C9D9020E7E5"
+                }
+            },
+            {
+                "POSITION": "5",
+                "SN": "1830226000016",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABAEA",
+                    "BMC_MAC": "AC3AE20AB2C0",
+                    "BF4_HOST_MAC": "2C9D90E0AE84",
+                    "BF4_BMC_MAC": "2C9D90E0AEA5"
+                }
+            },
+            {
+                "POSITION": "6",
+                "SN": "1830326000028",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8C8",
+                    "BMC_MAC": "AC3AE20AAEE0",
+                    "BF4_HOST_MAC": "2C9D9020F154",
+                    "BF4_BMC_MAC": "2C9D9020F175"
+                }
+            },
+            {
+                "POSITION": "7",
+                "SN": "1830426000009",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8D1",
+                    "BMC_MAC": "AC3AE20AB26D",
+                    "BF4_HOST_MAC": "2C9D9020EA06",
+                    "BF4_BMC_MAC": "2C9D9020EA27"
+                }
+            },
+            {
+                "POSITION": "8",
+                "SN": "1830426000011",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB918",
+                    "BMC_MAC": "AC3AE20AAEEA",
+                    "BF4_HOST_MAC": "2C9D9020FC84",
+                    "BF4_BMC_MAC": "2C9D9020FCA5"
+                }
+            },
+            {
+                "POSITION": "18",
+                "SN": "1830125000275",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABC6C",
+                    "BMC_MAC": "AC3AE20AB2C1",
+                    "BF4_HOST_MAC": "2C9D9020F1BA",
+                    "BF4_BMC_MAC": "2C9D9020F1DB"
+                }
+            },
+            {
+                "POSITION": "19",
+                "SN": "1830326000015",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB9EC",
+                    "BMC_MAC": "AC3AE20AAF0C",
+                    "BF4_HOST_MAC": "2C9D9020E582",
+                    "BF4_BMC_MAC": "2C9D9020E5A3"
+                }
+            },
+            {
+                "POSITION": "20",
+                "SN": "1830326000014",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB9F4",
+                    "BMC_MAC": "AC3AE20AB2CB",
+                    "BF4_HOST_MAC": "2C9D9020E51C",
+                    "BF4_BMC_MAC": "2C9D9020E53D"
+                }
+            },
+            {
+                "POSITION": "21",
+                "SN": "1830326000026",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8F0",
+                    "BMC_MAC": "AC3AE20AB28E",
+                    "BF4_HOST_MAC": "2C9D9020F3FC",
+                    "BF4_BMC_MAC": "2C9D9020F41D"
+                }
+            },
+            {
+                "POSITION": "22",
+                "SN": "1830226000020",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABA06",
+                    "BMC_MAC": "AC3AE20AB2C4",
+                    "BF4_HOST_MAC": "2C9D90E0AA66",
+                    "BF4_BMC_MAC": "2C9D90E0AA87"
+                }
+            },
+            {
+                "POSITION": "23",
+                "SN": "1830426000007",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8D2",
+                    "BMC_MAC": "AC3AE20AB26E",
+                    "BF4_HOST_MAC": "2C9D9020EFBC",
+                    "BF4_BMC_MAC": "2C9D9020EFDD"
+                }
+            },
+            {
+                "POSITION": "24",
+                "SN": "1830426000012",
+                "PN": "675-24109-0002-TS2",
+                "REV": "A",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20AB8D8",
+                    "BMC_MAC": "AC3AE20AAEC6",
+                    "BF4_HOST_MAC": "2C9D9020E75E",
+                    "BF4_BMC_MAC": "2C9D9020E77F"
+                }
+            },
+            {
+                "POSITION": "25",
+                "SN": "1830226000023",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABA0B",
+                    "BMC_MAC": "AC3AE20AAF07",
+                    "BF4_HOST_MAC": "2C9D90E0AFB6",
+                    "BF4_BMC_MAC": "2C9D90E0AFD7"
+                }
+            },
+            {
+                "POSITION": "26",
+                "SN": "1830326000017",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABA0A",
+                    "BMC_MAC": "AC3AE20AB2EA",
+                    "BF4_HOST_MAC": "2C9D9020FA42",
+                    "BF4_BMC_MAC": "2C9D9020FA63"
+                }
+            },
+            {
+                "POSITION": "27",
+                "SN": "1830226000022",
+                "PN": "675-24109-0002-TS2",
+                "REV": "C",
+                "MAC": {
+                    "OS_1G_MAC": "AC3AE20ABA07",
+                    "BMC_MAC": "AC3AE20AAF02",
+                    "BF4_HOST_MAC": "2C9D90E0AB76",
+                    "BF4_BMC_MAC": "2C9D90E0AB97"
+                }
+            }
+        ],
+        "Capacitor_Shelf": [],
+        "SN": "1830426000003",
+        "PN": "675-24110-0023-TS2",
+        "Chassis_Part_Number": "675-24110-0023-TS2",
+        "REV": "A",
+        "CUSTOM_REV": "A",
+        "LINE_NAME": "SJNVP03"
+    },
+    "RESULT": "OK"
+}
